@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NarutoCCG</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_FirebaseNotifiction_default_channel</string>
+
+</resources>
